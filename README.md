@@ -5,8 +5,12 @@ Você digitará o CEP e será retornado todas as informações referentes ao mes
 
 
 Nesse Mini Projeto criamos uma API para pesquisa de endereços.
+
 Utilizamos a API ViaCeo, que fica no endereço viacep.com.br.
+
 Utilizamos Bootstrap para layout da página. 
+
 Utilizamos também o AJAX do JavaScript para fazer a requisição via GET ao endereço da API.
+
 Um código bem simples e bastante útil para você implementar em suas páginas.
 
